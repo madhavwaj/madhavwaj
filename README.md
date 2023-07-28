@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Madhav Bhardwaj</h1>
-<h3 align="center">A passionate Developer from India</h3>
+<h3 align="center">This is the plaace where I commit, upload and search for opeansource.I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️. </h3>
 
 
 
