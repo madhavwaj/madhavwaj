@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madhavwaj&label=Profile%20views&color=0e75b6&style=flat" alt="madhavwaj" /> </p>
 
-<p align="left"> <a href="https://twitter.com/chapmadhav" target="blank"><img src="https://img.shields.io/twitter/follow/chapmadhav?logo=twitter&style=for-the-badge" alt="chapmadhav" /></a> </p>
+<p align="left"> <a href="https://x.com/madhavwaj" target="blank"><img src="https://img.shields.io/twitter/follow/chapmadhav?logo=twitter&style=for-the-badge" alt="madhavwaj" /></a> </p>
 
 - 🔭 I’m currently working on **DSA, Development**
 
